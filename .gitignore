@@ -1,0 +1,9 @@
+node_nodules/
+node_modules
+package-lock.json
+*.DS_Store
+redis/
+public/images/
+*.idea/
+build/
+yarn.lock
